@@ -1,0 +1,12 @@
+User Node  version :24.0.0   and plshu 
+
+go to backen folder 
+and use cmd : npm install
+
+complite  this  process   the  ren  the project  
+ this  command : npm run start:dev
+
+
+  Second  go frontend_end 
+
+ endte  cmd :npm install    then  ru  this cmd : npm run dev 
