@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Next.js
+.next/
+out/
+
+# NestJS
+dist/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# VS Code
+.vscode/
